@@ -7,4 +7,4 @@
 
 [![ssbarnea's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssbarnea&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssbarnea)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssbarnea&hide=c,c++,html)](https://github.com/anuraghazra/github-readme-stats)
