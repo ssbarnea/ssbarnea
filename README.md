@@ -25,3 +25,10 @@ I would like to thanks everyone that has aver supported me in my volutary work o
 2020 proved to be a very stressful year which got me very close to a burnout. One measure that I had to take was to suspend my maintenance of jira library. I am aware that it is affected by a lot of bitrot and nobody was willing to spend the considerable amount of time needed to restore the CI.
 
 Please do not get offeended if I do not reply to support questions on irc or email. Unless I already know you as someone that contributed to one of projects I maintain or just use, I would likely ignore direct messages.
+
+
+### Bits
+
+```
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIF+fxSQJpM7Ily1dWQ2Cpfft/0nnDwz2cjT1p0JZQqPr @ssbarnea (zbr)
+```
