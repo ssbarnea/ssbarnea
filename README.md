@@ -29,7 +29,7 @@ Please do not get offeended if I do not reply to support questions on irc or ema
 
 ## Tool others made and that I want to share with you
 
-* [hyperfile](https://github.com/sharkdp/hyperfine) for benchmarking command execution times
+* [hyperfine(https://github.com/sharkdp/hyperfine) for benchmarking command execution times
 * [ripgrep](https://github.com/BurntSushi/ripgrep) for searching locally. It recognizes gitignores and provide a very useful output. I do also have an alias for it `rg='rg --hidden --no-follow --max-columns 255 --no-heading --column -F'`
 * [pyenv](https://github.com/pyenv/pyenv) install and use multiple versions of python. Useful to bring python versions that your distro may lack. Especialy useful for MacOS.
 * [direnv](https://direnv.net/) which allows yuou to create `.envrc` fiels on disk which are automatically loaded. You can put env vars there, including secrets in order to avoid cluttering your entire user profile. This also limits their availability based on where you run from.
