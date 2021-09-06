@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working for Red Hat (IBM) as part of OpenStack team
+- 🔭 I’m currently working for Red Hat (IBM) as part of Ansible DevTools team
 - 🌱 I’m currently maintaining several [open source projects](https://sbarnea.com/about/)
-- 💬 ``@zbr`` nick on [libera.chat](https://web.libera.chat/?channel=#pycontribs) or [oftc](https://www.oftc.net/) irc networks, active on `#ansible-molecule`, `#ansible-lint`, `#zuul`, `#opendev`, `#oooq`, `#pycontribs`
+- 💬 ``@zbr`` nick on matrix/irc channels as [`#ansible-devtools`](https://chat.ansible.im/#/room/#devtools:ansible.com), `#zuul` or `#pycontribs`
 - ⚡ [sbarnea.com](https://sbarnea.com/) personal blog, always outdated
 
 [![ssbarnea's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssbarnea&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
