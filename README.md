@@ -19,7 +19,7 @@ I would like to thanks everyone that has aver supported me in my volutary work o
 * Those that decided to show appeciation by [sponsoring me](https://github.com/sponsors/ssbarnea). Keep in mind that I donate 100% of what I receive to upstream opensource projects that I use.
 * Several companies that found a way to support my work:
   * [JetBrains](https://www.jetbrains.com) for providing me with a free license of the great PyCharm
-  * [Navicat](https://www.navicat.com) for giving me a license of their powerful dataabase database development tool
+  * [Navicat](https://www.navicat.com) for giving me a license of their powerful database development tool
   * [Atlassian](https://www.atlassian.com) for providing a free cloud instance of Jira that is used to perform integrations testing on jira python library.
 
 ### 2020-12 Updates
@@ -34,7 +34,7 @@ Please do not get offeended if I do not reply to support questions on irc or ema
 * [hyperfine](https://github.com/sharkdp/hyperfine) for benchmarking command execution times
 * [ripgrep](https://github.com/BurntSushi/ripgrep) for searching locally. It recognizes gitignores and provide a very useful output. I do also have an alias for it `rg='rg --hidden --no-follow --max-columns 255 --no-heading --column -F'`
 * [pyenv](https://github.com/pyenv/pyenv) install and use multiple versions of python. Useful to bring python versions that your distro may lack. Especialy useful for MacOS.
-* [direnv](https://direnv.net/) which allows yuou to create `.envrc` fiels on disk which are automatically loaded. You can put env vars there, including secrets in order to avoid cluttering your entire user profile. This also limits their availability based on where you run from.
+* [direnv](https://direnv.net/) which allows you to create `.envrc` fiels on disk which are automatically loaded. You can put env vars there, including secrets in order to avoid cluttering your entire user profile. This also limits their availability based on where you run from.
 * [glances](https://nicolargo.github.io/glances/) and [htop](https://htop.dev/) as alternatives to old `top`.
 
 ### Bits
