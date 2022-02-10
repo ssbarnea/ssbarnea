@@ -1,8 +1,10 @@
-### Hi there 👋
+## Hi, I'm Sorin 👋
 
-- 🔭 I’m currently working for Red Hat (IBM) as part of Ansible DevTools team
+### I work on [Ansible](https://github.com/ansible) DevTools team at [Red Hat](https://redhat.com)
+
+- 🔭 Major projects I am working on [Visual Studio Code Extension for Ansible](https://marketplace.visualstudio.com/items?itemName=redhat.ansible), [ansible-lint](https://github.com/ansible-community/ansible-lint) and [molecule](https://github.com/ansible-community/molecule).
 - 🌱 I’m currently maintaining several [open source projects](https://sbarnea.com/about/)
-- 💬 ``@zbr`` nick on matrix/irc channels as [`#ansible-devtools`](https://chat.ansible.im/#/room/#devtools:ansible.com), `#zuul` or `#pycontribs`
+- 💬 ``@ssbarnea`` nick on matrix/irc channels as [`#ansible-devtools`](https://chat.ansible.im/#/room/#devtools:ansible.com), `#zuul` or `#pycontribs`
 - ⚡ [sbarnea.com](https://sbarnea.com/) personal blog, always outdated
 
 [![ssbarnea's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssbarnea&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -12,7 +14,7 @@
 
 I would like to thanks everyone that has aver supported me in my volutary work of supporting open-source project. I should mention at least few of these:
 
-* [Red Hat (IBM)](https://redhat.com), which is also my employer, for giving me the freedom to contribute to whatever open-source project I do see fit and spend a signifiant portion of my work time doing this, not only my free time.
+* [Red Hat (IBM)](https://redhat.com), which is also my employer, for giving me the freedom to contribute to whatever open-source project I do see fit while at work. In fact I suspect that 98% of what I do for work is on the public internet.
 * Every other open-source maintainer which ever reviewed my contributions, or just replied to issues I raise. I do value your help!
 * Those that decided to show appeciation by [sponsoring me](https://github.com/sponsors/ssbarnea). Keep in mind that I donate 100% of what I receive to upstream opensource projects that I use.
 * Several companies that found a way to support my work:
