@@ -22,9 +22,11 @@ I would like to thanks everyone that has aver supported me in my volutary work o
   * [Navicat](https://www.navicat.com) for giving me a license of their powerful database development tool
   * [Atlassian](https://www.atlassian.com) for providing a free cloud instance of Jira that is used to perform integrations testing on jira python library.
 
-### 2020-12 Updates
+### Updates
 
-2020 proved to be a very stressful year which got me very close to a burnout. One measure that I had to take was to suspend my maintenance of jira library. I am aware that it is affected by a lot of bitrot and nobody was willing to spend the considerable amount of time needed to restore the CI.
+- 2022-07: My team started a [menthorship program](https://github.com/ansible/devtools/wiki/mentoring) for those interested in learning how to become good open-source contributors and maintainers.
+- 2021-06: Leaving OpenStack and moving to Ansible DevTools team! Now maintaining those cool Ansible developemt tools became my job.
+- 2020-12: This year proved to be a very stressful year which got me very close to a burnout. One measure that I had to take was to suspend my maintenance of jira library. I am aware that it is affected by a lot of bitrot and nobody was willing to spend the considerable amount of time needed to restore the CI.
 
 Please do not get offeended if I do not reply to support questions on irc or email. Unless I already know you as someone that contributed to one of projects I maintain or just use, I would likely ignore direct messages.
 
