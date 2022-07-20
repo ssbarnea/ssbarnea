@@ -18,6 +18,7 @@ I would like to thanks everyone that has aver supported me in my volutary work o
 * Every other open-source maintainer which ever reviewed my contributions, or just replied to issues I raise. I do value your help!
 * Those that decided to show appeciation by [sponsoring me](https://github.com/sponsors/ssbarnea). Keep in mind that I donate 100% of what I receive to upstream opensource projects that I use.
 * Several companies that found a way to support my work:
+  * [1Password](https://github.com/1Password/1password-teams-open-source) for helping open-souce projects to manage and share secrets
   * [JetBrains](https://www.jetbrains.com) for providing me with a free license of the great PyCharm
   * [Navicat](https://www.navicat.com) for giving me a license of their powerful database development tool
   * [Atlassian](https://www.atlassian.com) for providing a free cloud instance of Jira that is used to perform integrations testing on jira python library.
