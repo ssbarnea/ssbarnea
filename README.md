@@ -4,7 +4,7 @@
 
 - 🔭 Major projects I am working on [Visual Studio Code Extension for Ansible](https://marketplace.visualstudio.com/items?itemName=redhat.ansible), [ansible-lint](https://github.com/ansible-community/ansible-lint) and [molecule](https://github.com/ansible-community/molecule).
 - 🌱 I’m currently maintaining several [open source projects](https://sbarnea.com/about/)
-- 💬 ``@ssbarnea`` nick on matrix/irc channels as [`#ansible-devtools`](https://chat.ansible.im/#/room/#devtools:ansible.com), `#zuul` or `#pycontribs`
+- 💬 ``@ssbarnea`` nick on matrix channels as [`#ansible-devtools`](https://chat.ansible.im/#/room/#devtools:ansible.com) or [`#pycontribs`](https://app.element.io/#/room/#pycontribs:matrix.org)
 - ⚡ [sbarnea.com](https://sbarnea.com/) personal blog, always outdated
 
 [![ssbarnea's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssbarnea&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
